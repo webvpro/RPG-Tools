@@ -1,0 +1,19 @@
+
+.player-character{
+    margin-top:2.33em;
+}
+.player-character .row .panel .panel-heading a{
+    display: inline-block;
+    color: #3c3f41;
+    font-weight: bold;
+}
+
+.trait-pts-total.badge{
+    background-color: #258c21;
+}
+
+.trait-pts-over.badge{
+    background-color: #dd9310;
+    margin-left: 0.22em;
+}
+

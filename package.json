@@ -1,0 +1,27 @@
+{
+  "name": "urgptools-fb",
+  "version": "1.0.0",
+  "description": "rpg game toold",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/webvpro/RPG-Tools.git"
+  },
+  "keywords": [
+    "angular",
+    "bootstrap",
+    "bower",
+    "firebase",
+    "firebase",
+    "auth"
+  ],
+  "author": "mlstanley",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/webvpro/RPG-Tools/issues"
+  },
+  "homepage": "https://github.com/webvpro/RPG-Tools#readme"
+}

@@ -1,0 +1,123 @@
+/* Space out content a bit */
+
+body {
+    margin-top: 3.66em;
+    margin-bottom: 6.33em;
+    background-color: #E6E8FA;
+}
+
+div.jumbotron{
+    margin-top: 0;
+}
+
+img#jumbo-logo-img{
+    height: 6.33em;
+    width: 33em;
+
+}
+
+img#logo-badge{
+    height: 2em;
+    width : 1.88em;
+    display: inline-block;
+    margin-left: 0.33em;
+    margin-right: 0.33em;
+
+}
+
+img.large-badge-img{
+    height: 8.33em;
+    width: 6.88em;
+    display: block;
+    margin-bottom: 0.66em;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+ul.working-list li{
+   padding:0.33em;
+}
+ul.working-list li button{
+    width:100%;
+}
+.quick-start-box{
+    background-color: #E6E8FA !important;
+    text-align: center;
+    padding: 0.33em;
+    margin: 0.66em;
+
+}
+
+.footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    height: 60px;
+    background-color: #F5F5F5;
+}
+
+.modal-header {
+    border-bottom: 1px solid #eee;
+    background-color: #2C3E50;
+    color: #F9F9F9;
+}
+
+/*
+character stuff
+*/
+
+
+
+
+/*Side bar*/
+
+
+
+.btn-genre {
+    background-color: #642EFE;
+    border-color: #642EFE;
+    color: #fff;
+}
+.btn-genre:hover,
+.btn-genre:focus,
+.btn-genre:active,
+.btn-genre.active {
+    background-color: #BCA9F5;
+    border-color: #642EFE;
+    color: #fff;
+}
+.btn-genre.disabled:hover,
+.btn-genre.disabled:focus,
+.btn-genre.disabled:active,
+.btn-genre.disabled.active,
+.btn-genre[disabled]:hover,
+.btn-genre[disabled]:focus,
+.btn-genre[disabled]:active,
+.btn-genre[disabled].active,
+fieldset[disabled] .btn-genre:hover,
+fieldset[disabled] .btn-genre:focus,
+fieldset[disabled] .btn-genre:active,
+fieldset[disabled] .btn-genre.active {
+    background-color: #BE81F7;
+    border-color: #BE81F7;
+}
+
+.navbar-brand {
+    padding: 0.85em 1em 2.5em;
+}
+
+.icon-badge:after{
+    content:"100";
+    position: absolute;
+    background: rgba(0,0,255,1);
+    height:2rem;
+    top:1rem;
+    right:1.5rem;
+    width:2rem;
+    text-align: center;
+    line-height: 2rem;;
+    font-size: 1rem;
+    border-radius: 50%;
+    color:white;
+    border:1px solid blue;
+}
